@@ -1,4 +1,4 @@
-using Core.Financeiro.ApontamentoServico;
+using ApontamentoServico;
 
 namespace ApontamentoServicoTest
 {

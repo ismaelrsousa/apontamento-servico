@@ -1905,24 +1905,11 @@
       "ApontamentoServico/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "CoreFinanceiro": "1.0.3"
-        },
         "compile": {
           "bin/placeholder/ApontamentoServico.dll": {}
         },
         "runtime": {
           "bin/placeholder/ApontamentoServico.dll": {}
-        }
-      },
-      "CoreFinanceiro/1.0.3": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/CoreFinanceiro.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CoreFinanceiro.dll": {}
         }
       }
     }
@@ -6789,11 +6776,6 @@
       "type": "project",
       "path": "../ApontamentoServico/ApontamentoServico.csproj",
       "msbuildProject": "../ApontamentoServico/ApontamentoServico.csproj"
-    },
-    "CoreFinanceiro/1.0.3": {
-      "type": "project",
-      "path": "../../PacoteNuget/PacoteNuget/PacoteNuget.csproj",
-      "msbuildProject": "../../PacoteNuget/PacoteNuget/PacoteNuget.csproj"
     }
   },
   "projectFileDependencyGroups": {

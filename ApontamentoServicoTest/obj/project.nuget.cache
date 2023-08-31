@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/4+LZddSg2diSVXsvk0l6MzXqw9kHnOdCwWukGiSWTleAzPrUNvGlCKzOrjkvvH8zgk8s+uDKWglde/6YqnNDA==",
+  "dgSpecHash": "wSRiIoTnigVwte0Yz6uBHGFA8tfTDrQkqfnfrhtVd5Z/Xute5cPv3djB1smQ5Zw/29da7R9/1o6ZqRNLtbIp0g==",
   "success": true,
   "projectFilePath": "D:\\Projetos\\ApontamentoServico\\ApontamentoServicoTest\\ApontamentoServicoTest.csproj",
   "expectedPackageFiles": [
@@ -98,8 +98,7 @@
     "C:\\Users\\ismae\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\ismae\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\ismae\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\ismae\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\ismae\\.nuget\\packages\\corefinanceiro\\1.0.3\\corefinanceiro.1.0.3.nupkg.sha512"
+    "C:\\Users\\ismae\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

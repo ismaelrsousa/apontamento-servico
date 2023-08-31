@@ -1129,16 +1129,8 @@
         }
       },
       "ApontamentoServico/1.0.0": {
-        "dependencies": {
-          "CoreFinanceiro": "1.0.3"
-        },
         "runtime": {
           "ApontamentoServico.dll": {}
-        }
-      },
-      "CoreFinanceiro/1.0.3": {
-        "runtime": {
-          "PacoteNuget.dll": {}
         }
       },
       "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions/14.0.0.0": {
@@ -1823,11 +1815,6 @@
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
     },
     "ApontamentoServico/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "CoreFinanceiro/1.0.3": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

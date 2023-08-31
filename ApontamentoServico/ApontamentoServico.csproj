@@ -7,12 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="CoreFinanceiro" Version="1.0.3" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\..\PacoteNuget\PacoteNuget\PacoteNuget.csproj" />
-  </ItemGroup>
-
 </Project>

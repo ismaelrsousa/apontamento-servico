@@ -90,9 +90,7 @@ D:\Projetos\ApontamentoServico\ApontamentoServicoTest\bin\Debug\net6.0\zh-Hant\M
 D:\Projetos\ApontamentoServico\ApontamentoServicoTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 D:\Projetos\ApontamentoServico\ApontamentoServicoTest\bin\Debug\net6.0\ApontamentoServico.dll
 D:\Projetos\ApontamentoServico\ApontamentoServicoTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-D:\Projetos\ApontamentoServico\ApontamentoServicoTest\bin\Debug\net6.0\PacoteNuget.dll
 D:\Projetos\ApontamentoServico\ApontamentoServicoTest\bin\Debug\net6.0\ApontamentoServico.pdb
-D:\Projetos\ApontamentoServico\ApontamentoServicoTest\bin\Debug\net6.0\PacoteNuget.pdb
 D:\Projetos\ApontamentoServico\ApontamentoServicoTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 D:\Projetos\ApontamentoServico\ApontamentoServicoTest\obj\Debug\net6.0\ApontamentoServicoTest.csproj.AssemblyReference.cache
 D:\Projetos\ApontamentoServico\ApontamentoServicoTest\obj\Debug\net6.0\ApontamentoServicoTest.GeneratedMSBuildEditorConfig.editorconfig

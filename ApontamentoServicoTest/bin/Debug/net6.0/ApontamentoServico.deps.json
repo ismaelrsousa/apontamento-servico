@@ -7,27 +7,14 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "ApontamentoServico/1.0.0": {
-        "dependencies": {
-          "CoreFinanceiro": "1.0.3"
-        },
         "runtime": {
           "ApontamentoServico.dll": {}
-        }
-      },
-      "CoreFinanceiro/1.0.3": {
-        "runtime": {
-          "PacoteNuget.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ApontamentoServico/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "CoreFinanceiro/1.0.3": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

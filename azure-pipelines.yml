@@ -8,7 +8,7 @@ trigger:
 
 pool:
   vmImage: 'windows-latest'
-  name: 'ISMAEL-PC'
+  name: 'Default'
 
 variables:
   solution: '**/*.sln'

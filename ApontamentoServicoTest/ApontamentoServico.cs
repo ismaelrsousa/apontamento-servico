@@ -63,9 +63,7 @@ namespace ApontamentoServicoTest
 
             decimal valor = apontamento.Valorar();
 
-            throw new Exception("testeee");
-
-            Assert.AreEqual(valor, 200);
+            Assert.AreEqual(300, valor);
             // Assert.IsTrue(result);
         }
     }
